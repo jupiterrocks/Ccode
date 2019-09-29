@@ -1,2 +1,2 @@
 # Ccode
-for contribute c and code and my your first commit and get t shirt from digtalocean in hacktoberfest 2020
+for contribute c and c++ code and make your first commit and get t shirt from digtalocean in hacktoberfest 2020
